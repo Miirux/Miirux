@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omar Ben Sabih El Imrany
 ================================================================================================================================================
 
-Computer Science Student | Web Developer
+Software Engineering Student | Web Developer
 ----------------------------------------
 
 I'm a software engineer student with a flair for web development and a genuine passion for all things tech. Constantly exploring the digital realm, I thrive on turning lines of code into engaging web experiences. I enjoy the creative process of bringing ideas to life. Let's connect and explore the exciting world of technology together!
